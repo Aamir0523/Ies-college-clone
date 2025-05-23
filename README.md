@@ -1,2 +1,2 @@
-# Ies-college-clone
-IES College Clone
+# Responsive College Website
+Responsive College Website Frontend Development
